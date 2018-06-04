@@ -1,0 +1,21 @@
+*.o
+*.dSYM
+*.csv
+*.out
+*.png
+*.so
+mnist/
+data/
+caffe/
+grasp/
+images/
+opencv/
+convnet/
+decaf/
+submission/
+cfg/
+darknet
+.fuse*
+
+# OS Generated #
+~$*
