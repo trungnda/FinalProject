@@ -1,0 +1,76 @@
+
+Yolo nguyen ban
+./darknet detector map train_data_v2/kinect_1.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_1.txt -thresh .5
+./darknet detector map train_data_v2/kinect_2.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_2.txt -thresh .5
+./darknet detector map train_data_v2/kinect_3.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_3.txt -thresh .5
+./darknet detector map train_data_v2/kinect_4.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_4.txt -thresh .5
+./darknet detector map train_data_v2/kinect_5.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_5.txt -thresh .5
+./darknet detector map train_data_v2/kinect_6.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_6.txt -thresh .5
+./darknet detector map train_data_v2/kinect_7.data train_data_v2/valid_yolo_v2.cfg yolov2-voc.weights  -out_filename valid_yolo_7.txt -thresh .5
+
+detections_count = 257864, unique_truth_count = 683
+class_id = 0, name = person, 864 ap = 0.06 %
+ for thresh = 0.50, precision = 0.00, recall = 0.12, F1-score = 0.00
+ for thresh = 0.50, TP = 80, FP = 58721, FN = 603, average IoU = 0.08 %
+
+ mean average precision (mAP) = 0.000567, or 0.06 %
+Total Detection Time: 13.000000 Seconds
+
+
+
+detections_count = 246075, unique_truth_count = 631
+class_id = 0, name = person, 075 ap = 0.06 %
+ for thresh = 0.50, precision = 0.00, recall = 0.11, F1-score = 0.00
+ for thresh = 0.50, TP = 68, FP = 55026, FN = 563, average IoU = 0.07 %
+
+ mean average precision (mAP) = 0.000590, or 0.06 %
+Total Detection Time: 11.000000 Seconds
+
+
+detections_count = 249340, unique_truth_count = 646
+class_id = 0, name = person, 340 ap = 0.44 %
+ for thresh = 0.50, precision = 0.00, recall = 0.34, F1-score = 0.01
+ for thresh = 0.50, TP = 220, FP = 61069, FN = 426, average IoU = 0.21 %
+
+ mean average precision (mAP) = 0.004412, or 0.44 %
+Total Detection Time: 11.000000 Seconds
+
+
+
+detections_count = 270710, unique_truth_count = 733
+class_id = 0, name = person, 710 ap = 2.02 %
+ for thresh = 0.50, precision = 0.00, recall = 0.37, F1-score = 0.01
+ for thresh = 0.50, TP = 268, FP = 55934, FN = 465, average IoU = 0.28 %
+
+ mean average precision (mAP) = 0.020206, or 2.02 %
+Total Detection Time: 13.000000 Seconds
+
+
+
+detections_count = 259503, unique_truth_count = 698
+class_id = 0, name = person, 503 ap = 0.29 %
+ for thresh = 0.50, precision = 0.00, recall = 0.21, F1-score = 0.01
+ for thresh = 0.50, TP = 145, FP = 40522, FN = 553, average IoU = 0.20 %
+
+ mean average precision (mAP) = 0.002912, or 0.29 %
+Total Detection Time: 14.000000 Seconds
+
+
+
+detections_count = 238605, unique_truth_count = 605
+class_id = 0, name = person, 605 ap = 0.29 %
+ for thresh = 0.50, precision = 0.00, recall = 0.37, F1-score = 0.01
+ for thresh = 0.50, TP = 226, FP = 57331, FN = 379, average IoU = 0.22 %
+
+ mean average precision (mAP) = 0.002917, or 0.29 %
+Total Detection Time: 10.000000 Seconds
+
+
+
+detections_count = 153021, unique_truth_count = 438
+class_id = 0, name = person, 021 ap = 0.40 %
+ for thresh = 0.50, precision = 0.01, recall = 0.33, F1-score = 0.01
+ for thresh = 0.50, TP = 145, FP = 24597, FN = 293, average IoU = 0.34 %
+
+ mean average precision (mAP) = 0.004049, or 0.40 %
+Total Detection Time: 8.000000 Seconds
