@@ -1,0 +1,635 @@
+detections_count = 57083, unique_truth_count = 683
+class_id = 0, name = person, 3   ap = 85.05 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.79, recall = 0.70, F1-score = 0.75
+ for thresh = 0.50, TP = 480, FP = 124, FN = 203, average IoU = 65.53 %
+
+ mean average precision (mAP) = 0.010632, or 1.06 %
+Total Detection Time: 12.000000 Seconds
+
+
+
+===================
+
+
+detections_count = 63897, unique_truth_count = 631
+class_id = 0, name = person, 7   ap = 79.40 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.53, recall = 0.74, F1-score = 0.62
+ for thresh = 0.50, TP = 469, FP = 424, FN = 162, average IoU = 43.22 %
+
+ mean average precision (mAP) = 0.009925, or 0.99 %
+Total Detection Time: 13.000000 Seconds
+==================================================
+
+
+detections_count = 53128, unique_truth_count = 646
+class_id = 0, name = person, 8   ap = 89.85 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.64, recall = 0.91, F1-score = 0.75
+ for thresh = 0.50, TP = 587, FP = 328, FN = 59, average IoU = 54.69 %
+
+ mean average precision (mAP) = 0.011232, or 1.12 %
+Total Detection Time: 13.000000 Seconds
+==============================================
+4
+
+
+detections_count = 68104, unique_truth_count = 733
+class_id = 0, name = person, 4   ap = 86.73 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.64, recall = 0.86, F1-score = 0.73
+ for thresh = 0.50, TP = 628, FP = 352, FN = 105, average IoU = 53.49 %
+
+ mean average precision (mAP) = 0.010841, or 1.08 %
+Total Detection Time: 15.000000 Seconds
+==================================================
+5
+
+detections_count = 73615, unique_truth_count = 698
+class_id = 0, name = person, 5   ap = 88.14 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.60, recall = 0.82, F1-score = 0.69
+ for thresh = 0.50, TP = 573, FP = 382, FN = 125, average IoU = 51.36 %
+
+ mean average precision (mAP) = 0.011018, or 1.10 %
+Total Detection Time: 15.000000 Seconds
+
+==================================================
+6
+
+detections_count = 48501, unique_truth_count = 605
+class_id = 0, name = person, 1   ap = 90.45 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.67, recall = 0.87, F1-score = 0.76
+ for thresh = 0.50, TP = 525, FP = 253, FN = 80, average IoU = 57.19 %
+
+ mean average precision (mAP) = 0.011307, or 1.13 %
+Total Detection Time: 11.000000 Seconds
+
+==================================================
+7
+
+
+detections_count = 6419, unique_truth_count = 438
+class_id = 0, name = person,     ap = 86.00 %
+class_id = 1, name = bicycle,    ap = 0.00 %
+class_id = 2, name = car,        ap = 0.00 %
+class_id = 3, name = motorbike,          ap = 0.00 %
+class_id = 4, name = aeroplane,          ap = 0.00 %
+class_id = 5, name = bus,        ap = 0.00 %
+class_id = 6, name = train,      ap = 0.00 %
+class_id = 7, name = truck,      ap = 0.00 %
+class_id = 8, name = boat,       ap = 0.00 %
+class_id = 9, name = traffic light,      ap = 0.00 %
+class_id = 10, name = fire hydrant,      ap = 0.00 %
+class_id = 11, name = stop sign,         ap = 0.00 %
+class_id = 12, name = parking meter,     ap = 0.00 %
+class_id = 13, name = bench,     ap = 0.00 %
+class_id = 14, name = bird,      ap = 0.00 %
+class_id = 15, name = cat,       ap = 0.00 %
+class_id = 16, name = dog,       ap = 0.00 %
+class_id = 17, name = horse,     ap = 0.00 %
+class_id = 18, name = sheep,     ap = 0.00 %
+class_id = 19, name = cow,       ap = 0.00 %
+class_id = 20, name = elephant,          ap = 0.00 %
+class_id = 21, name = bear,      ap = 0.00 %
+class_id = 22, name = zebra,     ap = 0.00 %
+class_id = 23, name = giraffe,   ap = 0.00 %
+class_id = 24, name = backpack,          ap = 0.00 %
+class_id = 25, name = umbrella,          ap = 0.00 %
+class_id = 26, name = handbag,   ap = 0.00 %
+class_id = 27, name = tie,       ap = 0.00 %
+class_id = 28, name = suitcase,          ap = 0.00 %
+class_id = 29, name = frisbee,   ap = 0.00 %
+class_id = 30, name = skis,      ap = 0.00 %
+class_id = 31, name = snowboard,         ap = 0.00 %
+class_id = 32, name = sports ball,       ap = 0.00 %
+class_id = 33, name = kite,      ap = 0.00 %
+class_id = 34, name = baseball bat,      ap = 0.00 %
+class_id = 35, name = baseball glove,    ap = 0.00 %
+class_id = 36, name = skateboard,        ap = 0.00 %
+class_id = 37, name = surfboard,         ap = 0.00 %
+class_id = 38, name = tennis racket,     ap = 0.00 %
+class_id = 39, name = bottle,    ap = 0.00 %
+class_id = 40, name = wine glass,        ap = 0.00 %
+class_id = 41, name = cup,       ap = 0.00 %
+class_id = 42, name = fork,      ap = 0.00 %
+class_id = 43, name = knife,     ap = 0.00 %
+class_id = 44, name = spoon,     ap = 0.00 %
+class_id = 45, name = bowl,      ap = 0.00 %
+class_id = 46, name = banana,    ap = 0.00 %
+class_id = 47, name = apple,     ap = 0.00 %
+class_id = 48, name = sandwich,          ap = 0.00 %
+class_id = 49, name = orange,    ap = 0.00 %
+class_id = 50, name = broccoli,          ap = 0.00 %
+class_id = 51, name = carrot,    ap = 0.00 %
+class_id = 52, name = hot dog,   ap = 0.00 %
+class_id = 53, name = pizza,     ap = 0.00 %
+class_id = 54, name = donut,     ap = 0.00 %
+class_id = 55, name = cake,      ap = 0.00 %
+class_id = 56, name = chair,     ap = 0.00 %
+class_id = 57, name = sofa,      ap = 0.00 %
+class_id = 58, name = pottedplant,       ap = 0.00 %
+class_id = 59, name = bed,       ap = 0.00 %
+class_id = 60, name = diningtable,       ap = 0.00 %
+class_id = 61, name = toilet,    ap = 0.00 %
+class_id = 62, name = tvmonitor,         ap = 0.00 %
+class_id = 63, name = laptop,    ap = 0.00 %
+class_id = 64, name = mouse,     ap = 0.00 %
+class_id = 65, name = remote,    ap = 0.00 %
+class_id = 66, name = keyboard,          ap = 0.00 %
+class_id = 67, name = cell phone,        ap = 0.00 %
+class_id = 68, name = microwave,         ap = 0.00 %
+class_id = 69, name = oven,      ap = 0.00 %
+class_id = 70, name = toaster,   ap = 0.00 %
+class_id = 71, name = sink,      ap = 0.00 %
+class_id = 72, name = refrigerator,      ap = 0.00 %
+class_id = 73, name = book,      ap = 0.00 %
+class_id = 74, name = clock,     ap = 0.00 %
+class_id = 75, name = vase,      ap = 0.00 %
+class_id = 76, name = scissors,          ap = 0.00 %
+class_id = 77, name = teddy bear,        ap = 0.00 %
+class_id = 78, name = hair drier,        ap = 0.00 %
+class_id = 79, name = toothbrush,        ap = 0.00 %
+ for thresh = 0.50, precision = 0.91, recall = 0.51, F1-score = 0.65
+ for thresh = 0.50, TP = 223, FP = 21, FN = 215, average IoU = 76.88 %
+
+ mean average precision (mAP) = 0.010750, or 1.08 %
+Total Detection Time: 8.000000 Seconds
+
+
+
+
+detections_count = 964, unique_truth_count = 683
+class_id = 0, name = person,     ap = 90.91 %
+ for thresh = 0.50, precision = 1.00, recall = 1.00, F1-score = 1.00
+ for thresh = 0.50, TP = 681, FP = 0, FN = 2, average IoU = 89.63 %
